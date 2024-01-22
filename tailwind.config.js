@@ -7,4 +7,3 @@ module.exports = {
     plugins: [],
   }
 
-// <span class="text-[#FF4240]">’</span>s
